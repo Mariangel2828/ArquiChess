@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEGUNDO SEMESTRE\\Arqui\\ProyectoMasm\\Againnnn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262F0797-4B6F-4D03-99A1-FC3FEC2881EB}|Againnnn.vcxproj|E:\\SEGUNDO SEMESTRE\\Arqui\\ProyectoMasm\\Againnnn\\die.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{262F0797-4B6F-4D03-99A1-FC3FEC2881EB}|Againnnn.vcxproj|solutionrelative:die.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 333,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "die.asm",
+              "DocumentMoniker": "E:\\SEGUNDO SEMESTRE\\Arqui\\ProyectoMasm\\Againnnn\\die.asm",
+              "RelativeDocumentMoniker": "die.asm",
+              "ToolTip": "E:\\SEGUNDO SEMESTRE\\Arqui\\ProyectoMasm\\Againnnn\\die.asm",
+              "RelativeToolTip": "die.asm",
+              "ViewState": "AgIAAHMHAAAAAAAAAAAAAEIFAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-10T23:46:45.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
